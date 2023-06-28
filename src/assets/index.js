@@ -7,7 +7,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import SLSafe from "./SLSafe.png";
-
+import ReactFaceApp from "./ReactFaceApp.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -34,10 +34,12 @@ import tripguide from "./tripguide.png";
 import aspnet from "./company/aspnet.png";
 import flutter from "./company/flutter.png";
 import sql from "./company/sql.png";
-
+import course from "./course.png";
 
 export {
   SLSafe,
+  ReactFaceApp,
+  course,
   aspnet,
   sql,
   flutter,
